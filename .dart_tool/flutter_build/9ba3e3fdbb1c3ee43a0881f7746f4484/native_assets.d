@@ -1,0 +1,1 @@
+ D:\\PROGRAMACAO\\Estudos\ UFRN\\Programacao\ Para\ Dispositivos\ Moveis\ -\ Taniro\ (2024.2)\\pokedex\\.dart_tool\\flutter_build\\9ba3e3fdbb1c3ee43a0881f7746f4484\\native_assets.yaml: 
